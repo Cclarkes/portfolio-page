@@ -8,10 +8,10 @@ function App() {
   return (
     <div>
       <BrowserRouter>
-      <Navbar />
-      <Switch>
-        <Route path="/" component={Home} />
-      </Switch>
+        <Navbar />
+        <Switch>
+          <Route path="/" component={Home} />
+        </Switch>
       </BrowserRouter>
     </div>
   );

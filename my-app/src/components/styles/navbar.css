@@ -2,10 +2,16 @@
     display: flex;
     flex-direction: row;
     background-color: midnightblue;
+    height: 8em;
+}
+
+#connor {
 }
 
 #logo {
-    float: left;
+    align-self: flex-start;
+    margin-right: 1em;
+    max-height: 8em;
 }
 .connor {
 
