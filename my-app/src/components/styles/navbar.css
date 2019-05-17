@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: midnightblue;
+}
+
+#logo {
+    float: left;
+}
+.connor {
+
+}
